@@ -19,7 +19,7 @@ class bhop3:
     def __skills__(self):
         self.programming_lang = {
             "Python",
-            "Javascript"
+            "Typescript"
         }
     
     def __sources__(self):
